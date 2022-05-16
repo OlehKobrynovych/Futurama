@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Futurama/static/css/main.f57fecb6.css",
-    "main.js": "/Futurama/static/js/main.7473d1c6.js",
-    "static/js/895.b5b585bc.chunk.js": "/Futurama/static/js/895.b5b585bc.chunk.js",
+    "main.js": "/Futurama/static/js/main.970b56b5.js",
+    "static/js/895.898240d6.chunk.js": "/Futurama/static/js/895.898240d6.chunk.js",
     "static/js/787.2bcc570e.chunk.js": "/Futurama/static/js/787.2bcc570e.chunk.js",
     "index.html": "/Futurama/index.html",
     "main.f57fecb6.css.map": "/Futurama/static/css/main.f57fecb6.css.map",
-    "main.7473d1c6.js.map": "/Futurama/static/js/main.7473d1c6.js.map",
-    "895.b5b585bc.chunk.js.map": "/Futurama/static/js/895.b5b585bc.chunk.js.map",
+    "main.970b56b5.js.map": "/Futurama/static/js/main.970b56b5.js.map",
+    "895.898240d6.chunk.js.map": "/Futurama/static/js/895.898240d6.chunk.js.map",
     "787.2bcc570e.chunk.js.map": "/Futurama/static/js/787.2bcc570e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f57fecb6.css",
-    "static/js/main.7473d1c6.js"
+    "static/js/main.970b56b5.js"
   ]
 }
