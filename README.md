@@ -2,7 +2,7 @@
 
 Futurama API - based on the Rick and Morty TV show. You will have access to approximately hundreds of characters, images, locations and episodes. Futurama API is filled with canonical information, as shown in the TV show.
 
-https://github.com/OlehKobrynovych/Futurama.git
+https://olehkobrynovych.github.io/Futurama/
 
 
 ## Table of contents

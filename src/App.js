@@ -1,6 +1,6 @@
 import React, { Suspense } from 'react';
 import './App.css';
-// import Navbar from './components/Navbar';
+import Navbar from './components/Navbar';
 // import Home from './components/Home'
 import {useState} from 'react'
 import SelectedHero from './page/SelectedHero.jsx'
@@ -8,7 +8,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {Container } from 'react-bootstrap';
 const Home = React.lazy(() => import('./components/Home'));
-const Navbar = React.lazy(() => import('./components/Navbar'));
+// const Navbar = React.lazy(() => import('./components/Navbar'));
 
 
 function App() {
