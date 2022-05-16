@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@1,500;1,700&display=swap');
+
+
+body[date-theme='dark'] {
+  color: hsl(0, 0%, 100%);
+  background: hsl(207, 26%, 17%);
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body[date-theme='light'] {
+  color: hsl(200, 15%, 8%);
+  background: #48b372b3;
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  max-width: 1240px;
+  margin: 0 auto;
+  /* padding: o 2rem; */
+}
+
+.active {
+  color: rgb(231, 15, 15);
+}
+
+.card-hero-wrapper {
+  list-style-position: inside;
+}
+  
+.card-hero {
+  border: 2px solid #CCC;
+  margin: 4px;
+  padding: 10px;
+  list-style: none;
+}
+
+.navbar-menu {
+  margin-top: 5px;
+  margin-bottom: 6px;
+}
+
+.header-menu {
+  display: inline-block;
+    text-decoration: none;
+    margin-left: 25px;
+    border: 2px solid #578199;
+    color: #578199;
+    border-radius: 5px;
+    background-color: rgb(190, 228, 88);
+    padding: 2px 12px;
+}
+
+.navbarMenu {
+  text-decoration: none;
+  margin-right: 20px;
+}
