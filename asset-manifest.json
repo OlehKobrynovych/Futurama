@@ -1,21 +1,17 @@
 {
   "files": {
     "main.css": "/Futurama/static/css/main.f57fecb6.css",
-    "main.js": "/Futurama/static/js/main.f3b18310.js",
-    "static/js/895.66615ceb.chunk.js": "/Futurama/static/js/895.66615ceb.chunk.js",
-    "static/js/622.18966fc6.chunk.js": "/Futurama/static/js/622.18966fc6.chunk.js",
+    "main.js": "/Futurama/static/js/main.21becb42.js",
+    "static/js/895.bcab4bd3.chunk.js": "/Futurama/static/js/895.bcab4bd3.chunk.js",
     "static/js/787.2bcc570e.chunk.js": "/Futurama/static/js/787.2bcc570e.chunk.js",
-    "static/js/702.e250191e.chunk.js": "/Futurama/static/js/702.e250191e.chunk.js",
     "index.html": "/Futurama/index.html",
     "main.f57fecb6.css.map": "/Futurama/static/css/main.f57fecb6.css.map",
-    "main.f3b18310.js.map": "/Futurama/static/js/main.f3b18310.js.map",
-    "895.66615ceb.chunk.js.map": "/Futurama/static/js/895.66615ceb.chunk.js.map",
-    "622.18966fc6.chunk.js.map": "/Futurama/static/js/622.18966fc6.chunk.js.map",
-    "787.2bcc570e.chunk.js.map": "/Futurama/static/js/787.2bcc570e.chunk.js.map",
-    "702.e250191e.chunk.js.map": "/Futurama/static/js/702.e250191e.chunk.js.map"
+    "main.21becb42.js.map": "/Futurama/static/js/main.21becb42.js.map",
+    "895.bcab4bd3.chunk.js.map": "/Futurama/static/js/895.bcab4bd3.chunk.js.map",
+    "787.2bcc570e.chunk.js.map": "/Futurama/static/js/787.2bcc570e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f57fecb6.css",
-    "static/js/main.f3b18310.js"
+    "static/js/main.21becb42.js"
   ]
 }
