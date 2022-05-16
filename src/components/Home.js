@@ -40,7 +40,7 @@ useEffect(() => {
         setUser(data)
       })
       let hero = JSON.parse(localStorage.getItem('select')) 
-  if(hero.length){
+  if(hero && hero.length){
     setSelectUser(hero)
   } 
     
