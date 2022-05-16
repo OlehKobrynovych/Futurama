@@ -18,16 +18,16 @@ const Home = ({setCount}) => {
  
 // debugger
   const heandleUser = (id) => {
-if (selectUser.indexOf(id) === -1 ) {
-  setSelectUser([...selectUser, id])
-  const hero = JSON.stringify([...selectUser, id])
-  localStorage.setItem('select', hero)
-} else {
-  selectUser.splice(selectUser.indexOf(id), 1)
-  setSelectUser([...selectUser])
-  const hero = JSON.stringify([...selectUser])
-  localStorage.setItem('select', hero)
-}
+      if (selectUser.indexOf(id) === -1 ) {
+        setSelectUser([...selectUser, id])
+        const hero = JSON.stringify([...selectUser, id])
+        localStorage.setItem('select', hero)
+      } else {
+        selectUser.splice(selectUser.indexOf(id), 1)
+        setSelectUser([...selectUser])
+        const hero = JSON.stringify([...selectUser])
+        localStorage.setItem('select', hero)
+      }
 }
 
 useEffect(() => {
@@ -60,7 +60,6 @@ useEffect(() => {
                       <Form >
                         <Form.Check 
                           type='checkbox'
-                          id={`checkHero`}
                           label={`My Hero`}
                           onChange={()=>(heandleUser(el.id))}
                           checked={selectUser.includes(el.id)}
